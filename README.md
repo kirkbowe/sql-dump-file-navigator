@@ -22,7 +22,7 @@ SQL Dump File Navigator is a Python tool designed to parse SQL dump files, provi
 1. Clone the repository:
     ```sh
     git clone https://github.com/kirkbowe/sql-dump-file-navigator.git
-    cd sql-navigator
+    cd sql-dump-file-navigator
     ```
 
 2. Ensure you have Python 3 installed. You can check your Python version with:
